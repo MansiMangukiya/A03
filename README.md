@@ -18,8 +18,10 @@
 ##Github Tutorial
 
 <h2> Part 2 </h2> 
+
+
 * - Step 1 : Make sure the correct version of Webstorm. For Github make sure an account is created. 
-*
+
 * - Step 2 : Webstorm is going to be the primary editor for the ReadMe files. 
 
 * - Step 3 : Log in to the Github website once an account is created, create a new repository. 
