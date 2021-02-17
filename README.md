@@ -18,16 +18,27 @@
 ##Github Tutorial
 
 <h2> Part 2 </h2> 
-- Step 1 : Make sure the correct version of Webstorm. For Github make sure an account is created. 
-- Step 2 : Webstorm is going to be the primary editor for the ReadMe files. 
-- Step 3 : Log in to the Github website once an account is created, create a new repository. 
-- Step 4 : Name the repository to however you like it to be named. 
-- step 5 : Wrtie a small description about what the main purpose of the repository will be like a title. 
-- Step 6 : Then initialize it with a README file. 
-- Step 7 : Next step would be to open the repository in Webstorm. 
-- Step 8 : Make sure README file is selected and open that file. 
-- Step 9 : Once it is opened, open the README file and you can begin typing what you need to do next. 
-- Step 10 : Once all your work is typed and done working in the file make sure all the work is saved and you can also turn on the autosave button. 
-- Step 11 : Then the next step is to publish the repository in Github. 
-- Step 12 : Once that is done, commit the changes and open the Github website and merge with the main branch. 
+* - Step 1 : Make sure the correct version of Webstorm. For Github make sure an account is created. 
+*
+* - Step 2 : Webstorm is going to be the primary editor for the ReadMe files. 
+
+* - Step 3 : Log in to the Github website once an account is created, create a new repository. 
+
+* - Step 4 : Name the repository to however you like it to be named. 
+
+* - step 5 : Wrtie a small description about what the main purpose of the repository will be like a title.
+ 
+* - Step 6 : Then initialize it with a README file. 
+
+* - Step 7 : Next step would be to open the repository in Webstorm. 
+
+* - Step 8 : Make sure README file is selected and open that file. 
+
+* - Step 9 : Once it is opened, open the README file and you can begin typing what you need to do next. 
+
+* - Step 10 : Once all your work is typed and done working in the file make sure all the work is saved and you can also turn on the autosave button. 
+
+* - Step 11 : Then the next step is to publish the repository in Github. 
+
+* - Step 12 : Once that is done, commit the changes and open the Github website and merge with the main branch. 
 
